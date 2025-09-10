@@ -1,6 +1,3 @@
-Setup Guide – High Availability & Disaster Recovery 
-==
-
 
 🏗️ Step 1: Create VPCs in Two Regions
 =
